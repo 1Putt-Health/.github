@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/banner.png" alt="1Putt Health — Healthcare automation, without the risk." width="100%" />
+  <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/1ph.png" width="168" alt="1Putt Health" />
   <h1>1Putt Health</h1>
   <p><strong>Healthcare automation, without the risk.</strong></p>
   <p>Deep engineering for large-scale EMR systems — and the products we build along the way.</p>
@@ -125,6 +125,13 @@ We're a healthcare-technology engineering studio. We do two things, and we do th
 - **Privacy-first.** PHI stays where it belongs. We de-identify at the edge and never route patient data through tools that shouldn't see it.
 - **Engineering-forward.** Senior builders, not slideware. We ship working software — and hand it over.
 - **On your stack.** Epic, Oracle Health (Cerner), athenahealth, eClinicalWorks — we meet the EHR where it is.
+
+## Founders
+
+Built by two engineers who write about the work:
+
+- **[Matt Wimberley](https://www.mattwimberley.com)** — [mattwimberley.com](https://www.mattwimberley.com)
+- **[Clint Johnson](https://www.clint-johnson.com)** — [clint-johnson.com](https://www.clint-johnson.com)
 
 ---
 
