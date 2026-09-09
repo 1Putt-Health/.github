@@ -6,67 +6,113 @@
 
   <p>
     <a href="https://1putthealth.com"><img src="https://img.shields.io/badge/Website-1putthealth.com-0d9488?style=for-the-badge&logoColor=white" alt="Website" /></a>
-    <a href="#our-products"><img src="https://img.shields.io/badge/Our%20Products-4-111827?style=for-the-badge" alt="Our products" /></a>
+    <a href="#-our-products"><img src="https://img.shields.io/badge/Our%20Products-4-111827?style=for-the-badge" alt="Our products" /></a>
     <a href="https://1putthealth.com/contact"><img src="https://img.shields.io/badge/Talk%20to%20us-%E2%86%92-0d9488?style=for-the-badge" alt="Contact" /></a>
   </p>
 </div>
 
 ---
 
-We're a healthcare-technology engineering studio, and we work two ways.
+We're a healthcare-technology engineering studio. We do two things, and we do them deep.
 
-**We take on deep technical engagements** — large-scale projects on EMR/EHR systems, where getting the data right is hard and the stakes are real. When the work is done we don't just hand over a report; we **leave behind the software and machine-learning tooling** teams need to keep succeeding long after we're gone.
+🏗️ **Engagements** — we take on large-scale EMR/EHR projects where moving clinical data correctly is genuinely hard, and we **leave behind the software and machine-learning tooling** teams keep running long after we're gone. No lock-in, no black boxes.
 
-**We build our own products** — clinical AI, developer infrastructure, and ambient health, shipped to real users.
+🚀 **Products** — we ship our own: clinical AI, developer infrastructure, and ambient health.
 
-## Our products
+## 🛠️ Our products
 
 <table>
   <tr>
-    <td width="84" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/products/medscrub.png" width="64" alt="MedScrub" />
+    <td width="88" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/products/medscrub.png" width="60" alt="MedScrub" />
     </td>
-    <td valign="middle">
+    <td valign="top">
       <strong><a href="https://medscrub.ai">MedScrub</a></strong> &nbsp;·&nbsp; <a href="https://medscrub.ai">medscrub.ai</a><br/>
-      The safe AI workspace for physicians. Syncs your EHR, preps your day, and keeps PHI on your machine — de-identified before anything reaches an LLM.
+      The safe AI workspace for physicians. Syncs your EHR, preps your day, and keeps PHI on your machine.<br/>
+      <sub>⚙️ <strong>Under the hood:</strong> local-first de-identification scrubs PHI before a single token reaches an LLM; background EHR sync trends labs, drafts notes, and preps summaries on-device.</sub>
     </td>
   </tr>
   <tr>
-    <td width="84" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/products/medhook.png" width="64" alt="MedHook" />
+    <td width="88" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/products/medhook.png" width="60" alt="MedHook" />
     </td>
-    <td valign="middle">
+    <td valign="top">
       <strong><a href="https://medhook.dev">MedHook</a></strong> &nbsp;·&nbsp; <a href="https://medhook.dev">medhook.dev</a><br/>
-      A self-hosted integration engine for developers. Build FHIR and healthcare integrations on your own infrastructure.
+      A self-hosted integration engine for developers. Build FHIR and healthcare integrations on infrastructure you control.<br/>
+      <sub>⚙️ <strong>Under the hood:</strong> ingest HL7v2 or FHIR, transform and route, fire webhooks — self-hosted, so PHI never transits a third party.</sub>
     </td>
   </tr>
   <tr>
-    <td width="84" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/products/metavigil.png" width="64" alt="MetaVigil" />
+    <td width="88" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/products/metavigil.png" width="56" alt="MetaVigil" />
     </td>
-    <td valign="middle">
+    <td valign="top">
       <strong><a href="https://metavigil.care">MetaVigil</a></strong> &nbsp;·&nbsp; <a href="https://metavigil.care">metavigil.care</a><br/>
-      Ambient wellness monitoring that turns existing WiFi networks into a passive health signal — no wearables, no cameras.
+      Ambient wellness monitoring that turns the WiFi you already have into a passive health signal.<br/>
+      <sub>⚙️ <strong>Under the hood:</strong> WiFi signal sensing detects presence and movement patterns at the edge — no wearables, no cameras, no new hardware.</sub>
     </td>
   </tr>
   <tr>
-    <td width="84" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/products/metacaddie.png" width="64" alt="MetaCaddie" />
+    <td width="88" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/products/metacaddie.png" width="60" alt="MetaCaddie" />
     </td>
-    <td valign="middle">
-      <strong><a href="https://metacaddie.app">MetaCaddie</a></strong> &nbsp;·&nbsp; <a href="https://metacaddie.app">metacaddie.app</a><br/>
-      An AI golf caddie with eyes, ears, and a voice. Learns your game and recommends clubs from strokes-gained data — across your phone, Apple Watch, and Ray-Ban Meta glasses. <em>Beta on TestFlight.</em>
+    <td valign="top">
+      <strong><a href="https://metacaddie.app">MetaCaddie</a></strong> &nbsp;·&nbsp; <a href="https://metacaddie.app">metacaddie.app</a> &nbsp;·&nbsp; <em>Beta on TestFlight</em><br/>
+      An AI golf caddie with eyes, ears, and a voice — across your phone, Apple Watch, and Ray-Ban Meta glasses.<br/>
+      <sub>⚙️ <strong>Under the hood:</strong> multimodal vision + voice read the shot, strokes-gained analytics pick the club, and 44 personas coach you. Native Swift on iOS + watchOS.</sub>
     </td>
   </tr>
 </table>
 
-## Engagements
+## 🧩 What we bring to an engagement
 
-Deep technical work on large-scale EMR/EHR systems — and we leave the tooling behind so the win keeps compounding.
+<table>
+  <tr>
+    <th>🔗 Interoperability</th>
+    <th>🤖 Applied ML</th>
+    <th>🚚 Delivery</th>
+  </tr>
+  <tr valign="top">
+    <td>
+      FHIR R4 &amp; SMART on FHIR<br/>
+      HL7v2, C-CDA, US Core / USCDI<br/>
+      Bulk FHIR (<code>$export</code>), TEFCA / QHIN<br/>
+      Epic · Oracle Health · athenahealth · eCW
+    </td>
+    <td>
+      Clinical NLP &amp; PHI de-identification<br/>
+      RAG over clinical data<br/>
+      On-prem / edge inference — PHI stays in-boundary<br/>
+      Eval harnesses you can trust
+    </td>
+    <td>
+      Pipelines + terminology (LOINC, SNOMED, RxNorm, ICD-10)<br/>
+      Cloud <em>or</em> self-hosted<br/>
+      Documented tooling we leave behind<br/>
+      Handover, not lock-in
+    </td>
+  </tr>
+</table>
 
-- **FHIR &amp; interoperability** — HL7v2 → FHIR, TEFCA / QHIN, USCDI, bulk FHIR, and the data pipelines that make systems actually talk to each other.
-- **Applied machine learning** — models and clinical AI that run against the record, plus the infrastructure to keep them running.
-- **Strategy &amp; advisory** — interoperability and AI roadmaps for teams that know what they need and want it shipped.
+## 📚 Standards &amp; stack we speak
+
+<p>
+  <img src="https://img.shields.io/badge/FHIR-R4-0d9488?style=flat-square" alt="FHIR R4" />
+  <img src="https://img.shields.io/badge/SMART_on_FHIR-0d9488?style=flat-square" alt="SMART on FHIR" />
+  <img src="https://img.shields.io/badge/HL7v2-0d9488?style=flat-square" alt="HL7v2" />
+  <img src="https://img.shields.io/badge/Bulk_FHIR-0d9488?style=flat-square" alt="Bulk FHIR" />
+  <img src="https://img.shields.io/badge/TEFCA_/_QHIN-0d9488?style=flat-square" alt="TEFCA / QHIN" />
+  <img src="https://img.shields.io/badge/C--CDA-0d9488?style=flat-square" alt="C-CDA" />
+  <img src="https://img.shields.io/badge/USCDI-0d9488?style=flat-square" alt="USCDI" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/On--device_LLMs-111827?style=flat-square" alt="On-device LLMs" />
+</p>
 
 ## Who we work with
 
