@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://1putthealth.com/img/logo.png" width="112" alt="1Putt Health" />
+  <img src="https://raw.githubusercontent.com/1Putt-Health/.github/main/profile/assets/banner.png" alt="1Putt Health — Healthcare automation, without the risk." width="100%" />
   <h1>1Putt Health</h1>
   <p><strong>Healthcare automation, without the risk.</strong></p>
   <p>AI and interoperability engineering that runs on the EMR you already have.</p>
