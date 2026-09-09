@@ -140,4 +140,17 @@ Built by two engineers who write about the work:
   <a href="https://1putthealth.com/contact">Let's talk →</a>
   <br/><br/>
   <sub>© 1Putt Health LLC · <a href="https://1putthealth.com">1putthealth.com</a> · This is our GitHub front door — most of our engagement work lives in private repos.</sub>
+  <br/><br/>
+  <sub>
+    <b>Our network:</b>
+    <a href="https://1putthealth.com">1Putt Health</a> ·
+    <a href="https://medscrub.ai">MedScrub</a> ·
+    <a href="https://medhook.dev">MedHook</a> ·
+    <a href="https://metavigil.care">MetaVigil</a> ·
+    <a href="https://metacaddie.app">MetaCaddie</a> ·
+    <a href="https://espiral.healthcare">eSpiral</a> ·
+    <a href="https://graphiteatlas.com">Graphite Atlas</a> ·
+    <a href="https://clint-johnson.com">Clint Johnson</a> ·
+    <a href="https://www.mattwimberley.com">Matt Wimberley</a>
+  </sub>
 </div>
